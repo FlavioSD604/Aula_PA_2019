@@ -1,0 +1,7 @@
+C:\Users\flavi\source\repos\Atividade Avaliativa PA\Atividade Avaliativa PA\bin\Debug\Atividade Avaliativa PA.exe.config
+C:\Users\flavi\source\repos\Atividade Avaliativa PA\Atividade Avaliativa PA\bin\Debug\Atividade Avaliativa PA.exe
+C:\Users\flavi\source\repos\Atividade Avaliativa PA\Atividade Avaliativa PA\bin\Debug\Atividade Avaliativa PA.pdb
+C:\Users\flavi\source\repos\Atividade Avaliativa PA\Atividade Avaliativa PA\obj\Debug\Atividade Avaliativa PA.csprojAssemblyReference.cache
+C:\Users\flavi\source\repos\Atividade Avaliativa PA\Atividade Avaliativa PA\obj\Debug\Atividade Avaliativa PA.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\Atividade Avaliativa PA\Atividade Avaliativa PA\obj\Debug\Atividade Avaliativa PA.exe
+C:\Users\flavi\source\repos\Atividade Avaliativa PA\Atividade Avaliativa PA\obj\Debug\Atividade Avaliativa PA.pdb
